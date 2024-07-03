@@ -1,0 +1,3 @@
+{
+  "compilerOptions": { "types": ["*.d.ts"], "checkJs": true }
+}
